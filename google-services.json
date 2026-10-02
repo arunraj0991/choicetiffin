@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480194260454",
+    "project_id": "choice-tiffen-services",
+    "storage_bucket": "choice-tiffen-services.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480194260454:android:1bb39272109077cbcf7a27",
+        "android_client_info": {
+          "package_name": "com.choicetiffinservices.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVKI11BBg4Aiv1e162R_TzPFAlijl0_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
